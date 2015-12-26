@@ -15,4 +15,5 @@ angular.module('faughsApp')
 				alert('error getting data', err);
 			}
 	}
+
 });
